@@ -1,0 +1,31 @@
+_repo: Hurricane-Island_28387
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Watson, H. B. Marriott (Henry Brereton Marriott)
+    alias: Watson, Henry Brereton Marriott
+    birthdate: 1863
+    deathdate: 1921
+    gutenberg_agent_id: '33303'
+    url: http://www.gutenberg.org/2009/agents/33303
+description: ''
+gutenberg_issued: '2009-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28387'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mutiny -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Physicians -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Yachts -- Fiction'
+- !lcsh 'Adventure stories'
+title: Hurricane Island
+url: http://www.gutenberg.org/ebooks/28387
